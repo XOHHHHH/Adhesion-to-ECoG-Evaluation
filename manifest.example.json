@@ -1,0 +1,12 @@
+[
+  {
+    "sample_set_id": "S001",
+    "batch_id": "B001",
+    "formulation_id": "D4_A",
+    "treatment": "untreated",
+    "substrate": "glass",
+    "width_mm": 4.0,
+    "raw_file": "data/raw/replace-with-instrument-export.csv"
+  }
+]
+
